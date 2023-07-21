@@ -7,7 +7,7 @@ Steps to run :
              
               2.Inside the main folder, open a terminal and run =>driversleepdetection.py
               
-sleep detection in car will decrease the chance of accidents in night time
+sleep detection in Vehical will decrease the chance of accidents in night time
 
 
 this python code will detect the yawn if driving person yawns more than three times or the posture is not in active state it will acknowledge the driver
