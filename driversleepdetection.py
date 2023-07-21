@@ -14,12 +14,12 @@ def yawn(mouth):
 
 def getFaceDirection(shape, size):
     image_p = np.array([
-                                shape[33],    # Nose tip
-                                shape[8],     # Chin
-                                shape[45],    # Left eye left corner
-                                shape[36],    # Right eye right corne
-                                shape[54],    # Left Mouth corner
-                                shape[48]     # Right mouth corner
+                                shape[33],
+                                shape[8],     
+                                shape[45],    
+                                shape[36],    
+                                shape[54],    
+                                shape[48]     
                             ], dtype="double")
     
     model_points = np.array([
